@@ -14,3 +14,4 @@
         comment_form( $args );
     ?>
 </div>
+<?php paginate_comments_links(); ?>
